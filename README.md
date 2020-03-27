@@ -1,6 +1,6 @@
 # Realtime URL tracking chrome extension
 
-This extension is for chrome browser. It will track user's tabs url which a user is using at a particular time. If user changes tabs regularly this extension track the tabs URLs and send to backend RESTful API which is build on nodeJS.
+This extension is for chrome browser. It will track user's tabs url which a user is using at a particular time. If user changes tabs regularly this extension track the tabs URLs and send to backend through RESTful API.
 
 ## Getting Started
 
